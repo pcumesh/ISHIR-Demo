@@ -1,0 +1,13 @@
+{
+  "appname": "ISHIR Demo",
+  "ocscope": "FullAccess DevCenterImpersonate BuyerAdmin BuyerReader DevCenterWebHookAdmin",
+  "clientid": "46F599A6-F955-4937-8DA7-36944EE320F8",
+  "buyerid": "5678",
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
